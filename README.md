@@ -1,6 +1,6 @@
 # DjangoBlog
 
-Building a blog with Django to practice using the framework and to use more than just Python on a project, by using HTML and CSS in the Blog page.
+Building a blog with Django to practice using the framework and to use more than just Python on a project, with HTML and CSS in the visual part of the Blog pages.
 
 To test this project you will need Django installed. You can find out how to do this here: https://docs.djangoproject.com/en/1.8/howto/windows/ If you are not on windows, just use the sidebar menu to search for the installation guide for your OS.
 
