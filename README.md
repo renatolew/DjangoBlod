@@ -1,4 +1,4 @@
-#DjangoBlog
+# DjangoBlog
 
 Building a blog with Django to practice using the framework and to use more than just Python on a project, by using HTML and CSS in the Blog page.
 
